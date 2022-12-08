@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2f9d59fe.css",
+    "main.js": "./static/js/main.ae59ea14.js",
+    "static/js/27.d0ef665d.chunk.js": "./static/js/27.d0ef665d.chunk.js",
+    "static/media/person.png": "./static/media/person.6b789eacbadcccdc8fdb.png",
+    "static/media/login.png": "./static/media/login.1d7598b088b04525d8fc.png",
+    "static/media/instagram.png": "./static/media/instagram.a401a136712cb8f7ba76.png",
+    "static/media/logo.png": "./static/media/logo.f4a985fcf133aca3f73e.png",
+    "static/media/huizhang.png": "./static/media/huizhang.d0672ceeb0a847ec9b01.png",
+    "static/media/telegram.png": "./static/media/telegram.ee9b3ff2691b0999e46f.png",
+    "static/media/facebook.png": "./static/media/facebook.ff32eb4d12f6058a6455.png",
+    "static/media/twitter.png": "./static/media/twitter.fe5ebf752f75d97513a4.png",
+    "static/media/weibo.png": "./static/media/weibo.69ba043aaec3dc074b73.png",
+    "static/media/camera.svg": "./static/media/camera.0b1ff4f0c95d88f939f93ef93704825f.svg",
+    "static/media/nft.svg": "./static/media/nft.1075bee2ff2983dba9f0acc4365b5d3e.svg",
+    "static/media/holder.svg": "./static/media/holder.b33332b0a6d7c811afa16039a18906a1.svg",
+    "static/media/edit.svg": "./static/media/edit.1baa430dfa521663c4a577fb56b1174f.svg",
+    "static/media/search.svg": "./static/media/search.7f79cdc8cf715057cfc1b73fa1fe646f.svg",
+    "static/media/follow.svg": "./static/media/follow.a7f75928c073cc3918175f59ebad1549.svg",
+    "index.html": "./index.html",
+    "static/media/back.svg": "./static/media/back.cbfbc73c23131a203c653bd429e1d9e2.svg",
+    "static/media/share.svg": "./static/media/share.13942ca15165f5b4e959b55140d9e028.svg",
+    "static/media/star.svg": "./static/media/star.ac42315ab040cf89ecd76dfff786897e.svg",
+    "static/media/starDeep.svg": "./static/media/starDeep.ffbf3dfbef96000babef553f6ea9ca34.svg",
+    "static/media/close.svg": "./static/media/close.7eefed0d39e13847505124ac5dd0e168.svg",
+    "static/media/menu.svg": "./static/media/menu.27f92e7e56f498f4872289de4c13f202.svg",
+    "static/media/select-on.svg": "./static/media/select-on.05cc2ce8b2bf31c99bf14f8ca556dc93.svg"
+  },
+  "entrypoints": [
+    "static/css/main.2f9d59fe.css",
+    "static/js/main.ae59ea14.js"
+  ]
+}
